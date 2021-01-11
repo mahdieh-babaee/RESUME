@@ -8,6 +8,7 @@
 + name: Mahdieh
 + last name : Babaee
 + Date of birth : 1998/November/30
++ Single
 + I am a computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -45,8 +46,10 @@
 ---
 + __
 
+### Email
 
-
+---
+ara.nse1377@gmail.com
 
 --- 
 ### [رزومه فارسی](resume-fa.md)
