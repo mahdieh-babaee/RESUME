@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### Mahdieh Babaee
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Mahdieh
++ last name : Babaee
++ Date of birth : 1998/November/30
++ I am a computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ network++
++ photoshop
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Tarannom Velayat high school
++ Student of Payame Noor Lavasan University
+ 
 
 ### language
 
@@ -35,15 +35,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Photography
++ Mountaineering
++ Drowing
++ Travel
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ __
 
 
 
